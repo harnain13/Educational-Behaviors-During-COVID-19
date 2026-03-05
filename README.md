@@ -1,4 +1,4 @@
-# Education Dataset Covid-19 Analysis
+# Uncovering the Behavioral Impact of Global Disruptions: A Multidimensional Analysis of Student Wellness and Academic Commitment during COVID-19
 
 ### Overview:
 The project aimed to analyze the impact of the COVID-19 pandemic on students' experiences with online classes using survey data. The dataset used for analysis can be found on Kaggle: [COVID-19 Impact on Students](https://www.kaggle.com/datasets/kunal28chaturvedi/covid19-and-its-impact-on-students).
