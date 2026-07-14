@@ -1,4 +1,7 @@
 # Educational Behaviors During COVID-19: Risk & Probabilistic Modeling
+<p align="center">
+  <img src="github-architecture-roadmap.png" alt="Bayesian Network Project Architecture Roadmap" width="100%">
+</p>
 
 ## 📌 Project Overview
 Traditional machine learning models often struggle when handling highly interconnected, non-linear human behavior because they assume independent variables. During the shift to remote learning in the pandemic, student engagement was heavily dictated by a web of intertwined lifestyle disruptions (e.g., shifts in sleep schedules, stress levels, physical fitness, and screen time fatigue).
